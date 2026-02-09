@@ -24,7 +24,7 @@ Check out my latest projects where I solve real-world business problems:
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/diego--chavez/](https://www.linkedin.com/in/diego-chavez-al/)
+* **LinkedIn:** [linkedin.com/in/diego-chavez-al/](https://www.linkedin.com/in/diego-chavez-al/)
 * **Email:** diegochavez011998@gmail.com
 * **Portfolio:** [github.com/diegoch9881/Data-Analytics-Portfolio](https://github.com/diegoch9881/Data-Analytics-Portfolio)
 
